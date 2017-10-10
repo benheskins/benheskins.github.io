@@ -1,0 +1,16 @@
+---
+layout: post
+title: me
+date: 2017-10-03 10:58:00
+author: Benedict Heskins
+description: about me
+categories: -info
+published: true
+img: post02.jpg 
+thumb: quake_thumb.jpg
+
+---
+this part value is about me.
+#### info ####
+----
+Content coming soon
